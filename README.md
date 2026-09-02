@@ -72,7 +72,7 @@ Le pipeline a été validé sur un Gold Standard avec d'excellentes métriques d
 | **PF OA (Arthrose fémoro-patellaire)** | 0.76 | 1.00 | 0.61 |
 
 *(Les matrices de confusion détaillées sont générées automatiquement dans le dossier `out/` lors de l'exécution).*
-[Matrices de confusions](out\confusion_matrices.png)
+[Matrices de confusions](out/confusion_matrices.png)
 
 ### 🌟 Au-delà des métriques : L'IA comme outil d'audit du Gold Standard
 
