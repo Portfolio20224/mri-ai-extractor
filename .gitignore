@@ -1,0 +1,17 @@
+# Data & Outputs
+/data/
+
+# Ignorer les gros fichiers CSV générés...
+/out/*.csv
+
+# ... MAIS forcer Git à inclure les images et rapports dans le dossier out/
+!/out/*.png
+!/out/*.txt
+!/out/*.json
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
